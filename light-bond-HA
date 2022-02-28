@@ -8,13 +8,13 @@ blueprint:
       name: Light 1
       selector:
         entity:
-          domain: light
+          #domain: light
           
     light_2:
       name: Light 2
       selector:
         entity:
-          domain: light
+         # domain: light
       
 trigger:
 - entity_id:
