@@ -2,7 +2,7 @@ blueprint:
   name: 3way-light-sync-bond
   description: 3way-light-sync-bond
   domain: automation
-  source_url: https://raw.githubusercontent.com/VideoScape/misc/main/light-bond-HA
+  source_url: https://raw.githubusercontent.com/VideoScape/misc/main/3way-light-sync-bond
   input:
     light_1:
       name: Light 1
