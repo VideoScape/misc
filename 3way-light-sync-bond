@@ -14,7 +14,7 @@ blueprint:
       selector:
         entity:
 
-     light_3:
+    light_3:
       name: Light 2
       selector:
         entity:
